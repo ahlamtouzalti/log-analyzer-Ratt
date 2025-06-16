@@ -1,0 +1,4 @@
+ERROR: Problème détecté
+INFO: Tout va bien
+WARNING: Attention requise
+ERROR: Nouvelle erreur
